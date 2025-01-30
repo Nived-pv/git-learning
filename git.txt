@@ -4,3 +4,4 @@ git.status ==> tracting unorderd file
 
 git.add -A ==> adding the untracked files to stageing area
 
+git.commit -m ==> "commit message"
