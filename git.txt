@@ -1,0 +1,6 @@
+git.int ==>initializing a repository 
+
+git.status ==> tracting unorderd file
+
+git.add -A ==> adding the untracked files to stageing area
+
