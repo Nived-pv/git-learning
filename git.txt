@@ -1,7 +1,11 @@
-git.int ==>initializing a repository 
+git int ==>initializing a repository 
 
-git.status ==> tracting unorderd file
+git status ==> tracting unorderd file
 
-git.add -A ==> adding the untracked files to stageing area
+git add -A ==> adding the untracked files to stageing area
 
-git.commit -m ==> "commit message"
+git commit -m ==> "commit message"
+
+git config --global user.name "username"
+
+git config --global user.email "email"
